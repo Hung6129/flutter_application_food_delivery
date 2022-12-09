@@ -1,6 +1,6 @@
 {
-    "name": "flutter_application_food_delivery",
-    "short_name": "flutter_application_food_delivery",
+    "name": "food_deli",
+    "short_name": "food_deli",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
